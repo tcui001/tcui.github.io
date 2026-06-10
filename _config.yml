@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 
-title: Tiangang Cui # the website title (if blank, full name will be used instead)
+title: T Cui # the website title (if blank, full name will be used instead)
 first_name: Tiangang
 middle_name: 
 last_name: Cui
@@ -25,7 +25,6 @@ contact_note: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
